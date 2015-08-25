@@ -1,0 +1,9 @@
+[package]
+name = "interval"
+version = "0.1.0"
+authors = ["Connor Imes <connor.k.imes@gmail.com>"]
+description = "The Rust Interval trait"
+license = "MIT"
+homepage = "https://github.com/connorimes/interval-rs"
+repository = "https://github.com/connorimes/interval-rs"
+keywords = ["interval", "trait"]
